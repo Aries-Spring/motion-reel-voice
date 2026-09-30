@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <title>Motion Reel Voice</title>
+  <rect width="256" height="256" rx="56" fill="#1A1A1A"/>
+  <path d="M60 78 L132 128 L60 178 Z" fill="#000000" opacity="0.55" stroke="#000000" stroke-width="18" stroke-linejoin="round" transform="translate(8 8)"/>
+  <path d="M60 78 L132 128 L60 178 Z" fill="#EF4F23" stroke="#EF4F23" stroke-width="18" stroke-linejoin="round"/>
+  <g fill="none" stroke="#FAF6EE" stroke-linecap="round" stroke-width="15">
+    <path d="M160 104 Q176 128 160 152"/>
+    <path d="M184 84 Q212 128 184 172"/>
+    <path d="M208 64 Q248 128 208 192"/>
+  </g>
+</svg>
